@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "esp_log.h"
 #include "esp_system.h"
-#include "app_main.h"
+#include "app_main.c"
 
 static const char *TAG = "MAIN";
 
